@@ -483,7 +483,7 @@ html, body {
     word-wrap: break-word;
     white-space: pre-wrap;
     background: rgb(247, 223, 0);
-    /*opacity: 1;*/
+
 }
 
 #page2 .three {
@@ -774,7 +774,7 @@ html, body {
     text-align: left;
     /*font-weight: bold;*/
     text-decoration: none;
-    line-height: 2;
+    line-height: 3.0;
     font-style: normal;
     border-radius: 0;
     word-wrap: break-word;
@@ -804,7 +804,7 @@ html, body {
     text-align: left;
     font-weight: bold;
     text-decoration: none;
-    line-height: 2;
+    line-height: 3.0;
     font-style: normal;
     border-radius: 0;
     word-wrap: break-word;
@@ -834,7 +834,7 @@ html, body {
     text-align: left;
     /*font-weight: bold;*/
     text-decoration: none;
-    line-height: 2;
+    line-height: 3.0;
     font-style: normal;
     border-radius: 0;
     word-wrap: break-word;
@@ -864,7 +864,7 @@ html, body {
     text-align: left;
     font-weight: bold;
     text-decoration: none;
-    line-height: 2;
+    line-height: 3.0;
     font-style: normal;
     border-radius: 0;
     word-wrap: break-word;
@@ -2448,7 +2448,7 @@ div {
         transform: scaleX(1.01);
     }
     100% {
-        opacity: 1;
+
         -webkit-transform: scaleX(0.98);
         transform: scaleX(0.98);
     }
@@ -2457,6 +2457,7 @@ div {
         transform: scaleX(1.01);
     }
     100% {
+        opacity: 1;
         -webkit-transform: scaleX(1);
         transform: scaleX(1);
     }
@@ -2489,7 +2490,7 @@ div {
         transform: scaleX(1.01);
     }
     100% {
-        opacity: 1;
+
         -webkit-transform: scaleX(0.98);
         -moz-transform: scaleX(0.98);
         -o-transform: scaleX(0.98);
@@ -2502,6 +2503,7 @@ div {
         transform: scaleX(1.01);
     }
     100% {
+        opacity: 1;
         -webkit-transform: scaleX(1);
         -moz-transform: scaleX(1);
         -o-transform: scaleX(1);
